@@ -7,7 +7,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import random
 
 
-print('Ativo ...')
+print('Ativo ....')
 # Substitua pelo token do seu bot
 API_TOKEN = '7363677491:AAG5PYMSToyDvmiyDGJH1PCBNEefvAwNyoM'
 
